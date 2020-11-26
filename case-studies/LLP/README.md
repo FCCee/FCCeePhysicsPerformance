@@ -6,7 +6,7 @@
   * [Plan](#plan)
   * [Software setup](#software-setup)
   * [Generator cards](#generator-cards)
-    + [WIP](#wip)
+  * [WIP](#wip)
 
 
 #### Meetings, mailing list
@@ -34,7 +34,7 @@ Sylvie Braibant-Giacomelli (U.Bologna), Valentina Diolaiti (U. Bologna), ...
 
 - Here information from specific benchmark models 
 
-##### WIP
+#### WIP
   - Valentina: study of the momentum resolution versus displacement building on top of previous work. Starting point could be a particle gun with muons in pythia generating a wide spectrum from prompt to 1,5 meters of distance from the collision point (the whole tracker) and see what happens.
   
  - Rohini: using setup from Suchita, try to generate samples with varying parameters, to then check how collimated the decay products of the RHN are and produce some plots to show. 
