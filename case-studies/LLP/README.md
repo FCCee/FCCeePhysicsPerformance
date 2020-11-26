@@ -1,6 +1,6 @@
 ### Search for LLP at FCC-ee 
 
-- [Search for LLP at FCC-ee](#search-for-llp-at-fcc-ee)
+Contents: 
   * [Meetings, mailing list](#meetings--mailing-list)
   * [Interested people (evolving)](#interested-people--evolving-)
   * [Plan](#plan)
